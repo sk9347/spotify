@@ -291,7 +291,21 @@ li:hover{
 audio{
     background-color: black;
 }
-
+.bi-music-note-list:hover{
+    color: green;
+}
+.bi-file-play:hover{
+    color: green;
+}
+.bi-music-player:hover{
+   color: green;
+}
+.bi-volume-down:hover{
+  color: green;
+}
+.bi-pip:hover{
+color: green;
+}
 @media screen and (min-width:480px) and (max-width:680px){
     footer{
         flex-direction: column;
